@@ -1,0 +1,2 @@
+https://github.com/hate-alert/HateXplain
+https://github.com/Vineeta12345/spam-detection
